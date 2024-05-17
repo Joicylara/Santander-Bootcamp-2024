@@ -80,3 +80,4 @@ Existem duas formas de obter um repositório Git na sua máquina:
 
 
 teste de conflito na branch
+
