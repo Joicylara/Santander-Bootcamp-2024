@@ -99,7 +99,7 @@ Existem duas formas de obter um repositório Git na sua máquina:
     git commit --amend -m "msg" : altera a mensagem do ultimo commit
     para sair daquela tela - esc + : +wq
     git reset --soft hash do commit : reseta o commit
-    git reset --mixed hash do commit, diferente do soft que volta para a preparação de commitar, o mixed volta para ser adicionado, ou        seja, um arquivo sem ser rastreado
+    git reset --mixed hash do commit, diferente do soft que volta para a preparação de commitar, o mixed volta para ser adicionado, ou seja, um arquivo sem ser rastreado
     git reset --hard código hash do commit : deixa somente o commit selecionado
     git reflog : histórico mais detalhado
     
